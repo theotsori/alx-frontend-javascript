@@ -15,12 +15,13 @@ export default function createIteratorObject(report) {
           value: employees[currentIndex++],
           done: false,
         };
-      } else {
-        return {
-          done: true,
-        };
       }
+
+      return {
+        done: true,
+      };
     },
+
     [Symbol.iterator]() {
       return this;
     },
