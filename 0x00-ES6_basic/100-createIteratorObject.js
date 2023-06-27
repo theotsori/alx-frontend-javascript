@@ -1,9 +1,9 @@
 export default function createIteratorObject(report) {
-  let departments = Object.values(report);
-  let employees = [];
+  const departments = Object.values(report);
+  const employees = [];
 
   departments.forEach((department) => {
-    employees = employees.concat(Object.values(department));
+    employees.push(...Object.values(department));
   });
 
   let currentIndex = 0;
