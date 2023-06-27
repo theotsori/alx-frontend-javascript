@@ -23,6 +23,6 @@ export default function createIteratorObject(report) {
     },
     [Symbol.iterator]() {
       return this;
-    },
+    }
   };
 }

@@ -5,7 +5,7 @@ export default function iterateThroughObject(reportWithIterator) {
     resultArray.push(item);
   }
 
-  const result = resultArray.join(" | ");
+  const result = resultArray.join(' | ');
 
   return result;
 }
