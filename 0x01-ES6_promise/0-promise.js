@@ -3,7 +3,7 @@ function getResponseFromAPI() {
     setTimeout(() => {
       const response = { message: 'API response' };
       resolve(response);
-    }, 1000);
+    });
   });
 }
 
