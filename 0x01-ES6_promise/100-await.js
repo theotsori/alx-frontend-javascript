@@ -7,12 +7,12 @@ export default async function asyncUploadUser() {
 
     return {
       photo: photoResponse,
-      user: userResponse
+      user: userResponse,
     };
   } catch (error) {
     return {
       photo: null,
-      user: null
+      user: null,
     };
   }
 }
