@@ -2,7 +2,7 @@
 
 Welcome to my ALX Frontend JavaScript journey! In this course, I am learning to build dynamic and interactive web applications using JavaScript. The course is designed to provide a comprehensive understanding of JavaScript and its application in frontend web development. Throughout this course, I am gaining knowledge about various concepts, techniques, and best practices for creating engaging web experiences.
 
-![Frontend Specialization](https://www.fingerprintforsuccess.com/roles/how-become-front-end-developer)
+![Frontend Specialization](https://www.simplilearn.com/ice9/free_resources_article_thumb/full_front_back.jpg)
 
 ## Table of Contents
 

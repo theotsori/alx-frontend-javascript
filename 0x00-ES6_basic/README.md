@@ -2,7 +2,7 @@
 
 This repository contains the code and resources for the **ALX Frontend JavaScript** course's **ES6 Basics** module.
 
-![ES6 Basics](https://dev.to/christinamcmahon/what-you-need-to-know-about-es6-pf)
+![ES6 Basics](https://res.cloudinary.com/practicaldev/image/fetch/s--mY622Qoc--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/398a310kjdiv647cld1y.jpg)
 
 ## Table of Contents
 

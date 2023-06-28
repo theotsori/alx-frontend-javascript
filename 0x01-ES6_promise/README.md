@@ -2,7 +2,7 @@
 
 Welcome to the **ALX Frontend JavaScript - ES6 Promise** module! In this module, I will explore advanced topics in ES6, including modules, promises, async/await, generators, and more. These concepts will enhance my JavaScript skills and enable me to write more efficient and readable code.
 
-![JS Promise](http://objcer.com/2017/05/07/About-Promise/)
+![JS Promise](https://ourcodeworld.com/public-media/articles/articleocw-5843ec76e41e3.png)
 
 ## Table of Contents
 
