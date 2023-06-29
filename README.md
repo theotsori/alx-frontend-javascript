@@ -24,7 +24,7 @@ The course is divided into multiple modules, each covering a specific aspect of 
 
 2. [0x01-ES6_promise](https://github.com/theotsori/alx-frontend-javascript/tree/main/0x01-ES6_promise): In this module, you will explore advanced topics in ES6, including modules, promises, async/await, generators, and more.
 
-3. [0x02-React_intro](https://github.com/theotsori/alx-frontend-javascript/tree/main/0x02-React_intro): This module provides an introduction to React, a popular JavaScript library for building user interfaces. You will learn the fundamentals of React components, JSX syntax, state management, and component lifecycle.
+3. [0x02-ES6_classes](https://github.com/theotsori/alx-frontend-javascript/tree/main/0x02-ES6_classes): This module provides an introduction to ES6 classes, the functions done expands more advanced knowledge to classes in general
 
 4. [0x03-Webpack](https://github.com/theotsori/alx-frontend-javascript/tree/main/0x03-Webpack): In this module, you will delve into Webpack, a powerful bundler that simplifies the process of managing and bundling JavaScript, CSS, and other web assets.
 
