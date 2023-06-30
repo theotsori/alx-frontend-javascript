@@ -13,12 +13,12 @@ export default function createIteratorObject(report) {
       if (currentIndex < employees.length) {
         return {
           value: employees[currentIndex++],
-          done: false
+          done: false,
         };
       }
 
       return {
-        done: true
+        done: true,
       };
     },
 
