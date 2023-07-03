@@ -2,7 +2,7 @@
 
 ES6 (ECMAScript 2015) introduced several new features and enhancements to JavaScript, providing powerful tools for data manipulation. These features make it easier to work with arrays, objects, sets, maps, and other data structures. In this markdown file, we'll explore some common ES6 data manipulation techniques.
 
-![Data-Manipulation](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/6ab7bec4727cb5c91257.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230703T133533Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bf29bb3d129bf4ce5fb0e088d67dd61a35cfa2bcb3e160f54f2b9b899bc2ecff)
+![Data-Manipulation]()
 
 ## Table of Contents
 
